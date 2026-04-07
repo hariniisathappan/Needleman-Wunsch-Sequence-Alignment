@@ -72,7 +72,7 @@ While this project focuses on biological sequences, similar alignment-based idea
 
 ## 👩‍💻 Author
 
-**Harinii Sathappan**  
+**Harinii S**  
 B.Tech Bioinformatics (AI/ML Minor)  
 SASTRA Deemed University  
 
